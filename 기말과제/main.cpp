@@ -93,31 +93,6 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int nCmdShow)
 	
 }
 
-// 게임 오버 대화상자
-/*
-BOOL CALLBACK AboutDlgProc(HWND hDlg, UINT iMessage, WPARAM wParam, LPARAM)
-{
-	switch (iMessage) {
-	case WM_INITDIALOG:
-		return TRUE;
-	case WM_COMMAND:
-		switch (LOWORD(wParam)) {
-		case IDOK:
-			hero.HP = 3;
-			//MessageCheck = false;
-			EndDialog(hDlg, IDOK);
-			return TRUE;
-		case IDCANCEL:
-			PostQuitMessage(0);
-			EndDialog(hDlg, IDCANCEL);
-			return TRUE;
-		}
-		break;
-	}
-	return FALSE;
-}
-
-*/
 	
 	LRESULT CALLBACK WindowProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
@@ -127,10 +102,6 @@ BOOL CALLBACK AboutDlgProc(HWND hDlg, UINT iMessage, WPARAM wParam, LPARAM)
 	{
 	case WM_CREATE:
 		hero.HP = 5;
-		SetTimer(hWnd, 1, 1000, NULL);
-		SendMessage(hWnd, WM_TIMER, 1, 0);
-		SetTimer(hWnd, 2, 400, NULL); 
-		SendMessage(hWnd, WM_TIMER, 2, 0);
 		return 0;
 
 		playerHit();
