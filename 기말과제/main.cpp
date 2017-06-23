@@ -46,7 +46,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int nCmdShow)
 	// enter the main loop:
 
 	MSG msg;
-	//bgmopen.lpstrElementName = L"bgm-1.mp3";
+	bgmopen.lpstrElementName = L"bgm-1.mp3";
 	bgmopen.lpstrDeviceType = L"MPEGVideo";
 	 
 	efopen.lpstrElementName = L"shootsound.wav";
