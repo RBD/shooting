@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\unitmanager.h(278): warning C4100: 'x': 참조되지 않은 정식 매개 변수입니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(562): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(566): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(609): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(619): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(716): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(732): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(745): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(748): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(780): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(804): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(835): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(861): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(867): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(848): warning C4100: 'hWnd': 참조되지 않은 정식 매개 변수입니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(136): warning C4702: 접근할 수 없는 코드입니다.
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(695): warning C4702: 접근할 수 없는 코드입니다.
+  shooting_game_base.vcxproj -> C:\Users\JS\Documents\Visual Studio Projects\DirectXSamples\기말과제\Debug\shooting Game Base.exe
+  shooting_game_base.vcxproj -> C:\Users\JS\Documents\Visual Studio Projects\DirectXSamples\기말과제\Debug\shooting Game Base.pdb (Full PDB)

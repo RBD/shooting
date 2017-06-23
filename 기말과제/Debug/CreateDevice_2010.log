@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\js\documents\visual studio projects\directxsamples\기말과제\main.cpp(868): warning C4100: 'hWnd': 참조되지 않은 정식 매개 변수입니다.
+  CreateDevice_2010.vcxproj -> C:\Users\JS\Documents\Visual Studio Projects\DirectXSamples\기말과제\Debug\shooting Game Base.exe
+  CreateDevice_2010.vcxproj -> C:\Users\JS\Documents\Visual Studio Projects\DirectXSamples\기말과제\Debug\shooting Game Base.pdb (Full PDB)
